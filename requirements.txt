@@ -1,0 +1,5 @@
+Django
+djangorestframework
+fastAPI
+pydantic_settings
+fastapi[standard]
